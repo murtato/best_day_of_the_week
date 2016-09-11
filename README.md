@@ -1,1 +1,2 @@
-# best_day_of_the_week
+# BEST DAY OF THE WEEK!
+
